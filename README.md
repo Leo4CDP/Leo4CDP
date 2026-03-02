@@ -1,3 +1,4 @@
+Hi, I'm Leo!
 I am currently working as the **Research Director** at **[CDP.Center](https://cdp.center/)**, an analytical think tank dedicated to in-depth research and analytics of global trends.
 
 Our main areas of focus include:
