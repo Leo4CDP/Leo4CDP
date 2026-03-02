@@ -9,3 +9,5 @@ Our main areas of focus include:
     * Want to understand the logic behind leading VC funds' investment selections.
     * Have limited time to search for and verify information.
 * 🏢 **Real Estate:** Analytics and market forecasts for residential real estate across various countries.
+
+✍️ **[My Substack Blog](https://startupflow.substack.com/):** I write a dedicated newsletter covering venture capital markets, with a special deep dive into Artificial Intelligence and how it reshapes investments.
