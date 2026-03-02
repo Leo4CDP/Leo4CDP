@@ -2,9 +2,9 @@ I am currently working as the **Research Director** at **[CDP.Center](https://cd
 
 Our main areas of focus include:
 
-* 🤖 **AI & Big Data:** Artificial intelligence adoption and the development of the IT/ICT sector.
+* 🤖 **AI & Big Data:** Artificial intelligence adoption and the development of the IT/ICT sector and AI investment trends
 * 📈 **Investments & Startups:** Monitoring venture capital (VC) deals and startup ecosystems. 
-  * 🚀 **[Workshop: Venture Funds Deals and Trends](https://venture.cdp.center/)** — We recently launched a workshop specifically designed for those who:
+  * 🚀 **[Workshop: Venture Funds Deals and Trends](https://venture.cdp.center/)** — We recently launched a workshop dedicated to Venture Capital insights, specifically designed for those who:
     * Are interested in the most current trends and insights in the venture capital industry.
     * Want to understand the logic behind leading VC funds' investment selections.
     * Have limited time to search for and verify information.
